@@ -6,6 +6,7 @@ import (
 	"net/http"
 )
 
+
 func CityHandler(res http.ResponseWriter, req *http.Request) {
 	data := []byte(`{"cities":"Stockholm,San Francisco, Amsterdam, Berlin, New York, Tokyo, Warsaw"}`)
 

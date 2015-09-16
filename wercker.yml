@@ -1,3 +1,4 @@
+# look ma, its automated
 box: golang
 # Build definition
 build:
